@@ -260,7 +260,7 @@ footer svg{
 }
 
 footer svg:hover{
-    fill: black;
+    fill: var(--primary);
     transition: fill .2s linear;
 }
 
